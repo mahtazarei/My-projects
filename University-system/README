@@ -1,1 +1,4 @@
-
+This project is the basic implementation of an University system using C.
+In this system the admin of the system can create new students, courses, classes (the location which each course is ment to be held), master students, and terms. Linked list is the data structure being used in this code.
+It is possible to search for bachelo and master students based on different catagories such as student number, date of birth, gender etc.
+Each person can login to the system. Students are alowed to add or remove courses, see the list of the courses they picked, and see their grades.
